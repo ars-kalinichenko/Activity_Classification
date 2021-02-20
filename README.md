@@ -1,3 +1,2 @@
-# Activity_Classification
-👨‍🔬 The idea behind the app was to help people with Parkinson's disease. For two months we made an application for analyzing gait data, learned to predict the type of activity with an accuracy of 92%.
+🐣 A machine learning project for predicting the type of activity (running, walking, jumping). The data obtained from the accelerometer is used as data.
 
